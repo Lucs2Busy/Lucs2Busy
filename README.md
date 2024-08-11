@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, cpp, and python.
 - 💞️ I’m looking to collaborate on some side projects and to see what other poepel have done
 - 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gone skydiving, rode motorcycles, and have finished most of the Dark Tower series
 
 # About me
